@@ -104,7 +104,7 @@ describe('ContactEditComponent tests', () => {
         id: 1,
         name: 'London',
         email: 'london@example.com',
-        number: '1234567890'
+        number: '12345678901'
       };
 
       component.contact = {
